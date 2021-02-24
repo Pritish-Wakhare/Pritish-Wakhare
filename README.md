@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pritish Wakhare
 
-<img src="https://github.com/PrashanjeetH/portfolio/blob/master/assets/ezgif.com-crop.gif" width="100%">
+<img src="" width="100%">
 <!--
 **Pritish-Wakhare/Pritish-Wakhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
