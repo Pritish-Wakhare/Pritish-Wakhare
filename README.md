@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritish-Wakhare&layout=compact)
-![My github stats](https://github-readme-stats.vercel.app/api?username=Pritish-Wakhare&show_icons=true&theme=dracula&count_private=true&hide=prs)
+
 
 ---
