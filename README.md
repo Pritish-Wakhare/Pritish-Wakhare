@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+(https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c2087b2856984ddd)
  
  
 
@@ -31,5 +32,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Pritish-Wakhare&show_icons=true&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritish-Wakhare&show_icons=true&hide_border=true" />
 </details>
 ---
