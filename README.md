@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on any Project
 - 🤔 I’m looking for a guidance 
-- 💬 Ask me about ...`Python` `C++` `Java` `Data Structure` `C` `HTML5` `CSS3` `Wordpress`   
+- 💬 Ask me about ...`Python` `C++` `Java` `Data Structure` `C` `HTML5` `CSS3` `Wordpress``Flutter`   
 - 📫 How to reach me: ...<a href="mailto:pritish2127@gmail.com">Let's get in touch!</a>
 - ⚡ Fun fact: I love Cricket ! 
 ![](https://komarev.com/ghpvc/?username=Pritish-Wakhare)
