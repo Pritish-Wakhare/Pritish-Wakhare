@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...<a href="mailto:pritish2127@gmail.com">Let's get in touch!</a>
 - ⚡ Fun fact: I love Cricket ! 
 ![](https://komarev.com/ghpvc/?username=Pritish-Wakhare)
-(https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) [![Blog]
+<a href="https://medium.com/@theindianappguy"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+
 
 ### Spotify Playing 🎧
 
